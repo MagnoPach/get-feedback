@@ -64,12 +64,12 @@ export function WidgetForm() {
         </>
       )}
       <footer>
-        feito com s2 pela{" "}
+        Visite meu
         <a
-          href="http://www.rocketseat.com"
+          href="https://github.com/MagnoPach"
           className="underline underline-offset-2"
         >
-          Rocketseat
+          Github
         </a>
       </footer>
     </div>
