@@ -64,7 +64,7 @@ export function WidgetForm() {
         </>
       )}
       <footer>
-        Visite meu
+        Visite meu{" "}
         <a
           href="https://github.com/MagnoPach"
           className="underline underline-offset-2"
